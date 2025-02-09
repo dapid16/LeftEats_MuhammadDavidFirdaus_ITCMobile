@@ -47,7 +47,7 @@ class LandingPage extends StatelessWidget {
                 errorBuilder: (context, error, stackTrace) => const Icon(
                   Icons.fastfood,
                   size: 100,
-                  color: Colors.white,
+                  color: Colors.black,
                 ),
               ),
               const SizedBox(height: 20),
